@@ -4,7 +4,7 @@ import './App.css'
 import Alert from './components/alert'
 import About from './components/About'
 import React,{useState} from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 
 
 export default function App() {
@@ -22,7 +22,7 @@ export default function App() {
   
   return (
     <div>
-      <Router>
+      <HashRouter>
             <Routes>
               <Route path="/" element={<Navbar/>}/>
               <Route path="/About" element={<About/>}/>
@@ -33,7 +33,7 @@ export default function App() {
             </Routes>
             </div>
         <Alert alert={alert}/> 
-      /</Router>
+      /</HashRouter>
     </div>
   )
 }
