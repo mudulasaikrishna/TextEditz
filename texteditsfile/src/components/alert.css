@@ -1,0 +1,14 @@
+.zz{
+    background-color: rgb(34, 249, 34);
+    position: fixed;
+}
+@media(max-width:500px){
+    .vc{
+        height: auto;
+        width: auto;
+        padding: 10px;
+    }
+    strong{
+        color: white;
+    }
+  }
