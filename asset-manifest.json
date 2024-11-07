@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextEditz/static/css/main.97cb72fc.css",
+    "main.js": "/TextEditz/static/js/main.7582af79.js",
+    "static/js/453.e824aab5.chunk.js": "/TextEditz/static/js/453.e824aab5.chunk.js",
+    "index.html": "/TextEditz/index.html",
+    "main.97cb72fc.css.map": "/TextEditz/static/css/main.97cb72fc.css.map",
+    "main.7582af79.js.map": "/TextEditz/static/js/main.7582af79.js.map",
+    "453.e824aab5.chunk.js.map": "/TextEditz/static/js/453.e824aab5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97cb72fc.css",
+    "static/js/main.7582af79.js"
+  ]
+}
